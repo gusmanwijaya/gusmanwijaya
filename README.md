@@ -4,7 +4,7 @@ I'm Gusman Wijaya, you can call me Jay. I'm a Web Developer and I spend most of 
 
 :mailbox: Reach me out!
 
-[![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281312397308/) [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GusmanWijayaa)](https://twitter.com/GusmanWijayaa) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusman-wijaya-25997220b/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gusmanwijaya) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gusman.w.jaya@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@gusmanwijaya-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/gusmanwijaya) [![Linkedin Badge](https://img.shields.io/badge/-GusmanWijaya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gusman-wijaya-25997220b/) [![Mail Badge](https://img.shields.io/badge/-gusman.w.jaya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:gusman.w.jaya@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@GusmanWijayaa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/GusmanWijayaa)](https://twitter.com/GusmanWijayaa)
 
 ### Portfolio
 
